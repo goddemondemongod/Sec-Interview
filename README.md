@@ -1,7 +1,7 @@
 # Sec-Interview
 网络安全面试总结
 
-## 持续更新
+## 持续更新，欢迎fork和star
 <br/>
 
 ## 整理
